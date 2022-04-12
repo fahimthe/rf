@@ -1,0 +1,399 @@
+@media (min-width: 320px) and (max-width: 479.98px){  
+    /* home  */
+    .home .home_right h3 {
+        font-size: 26px;
+    }
+    .job{
+        padding: 10px 0;
+    }
+    .home .home_right .apply_sec {
+        width: 90%;
+        margin: 0 auto;
+    }
+    .home {
+        padding: 50px 0;
+    }
+    .home .home_right .apply_sec {
+        padding: 20px 5px;
+        margin-top: 10px;
+    }
+/* offcan */
+.btn-close:focus {
+	box-shadow: none;
+}
+  /* Crad */
+  .cards {
+	padding: 50px 0;
+}
+.cards .card_item {
+	margin-top: 20px;
+}
+.cards .card_item h3 {
+	font-size: 24px;
+}
+.cards .card_item p {
+	font-size: 13px;
+	padding: 15px 0;
+}
+.cards .card_item {
+	padding: 40px 40px;
+}
+
+/* job */
+.job_application {
+	padding: 20px 0;
+}
+
+
+/* footer */
+.footer .footer_one h5 {
+	font-size: 13px;
+	color: #ffff;
+	padding-top: 5px;
+	font-weight: 400;
+}
+.footer {
+	padding: 30px 0;
+}
+/* login */
+#modal_2 .modal .modal-dialog .modal-content .modal-body .login_form {
+	padding: 0px 0;
+}
+
+#modal_2 .modal .modal-dialog .modal-content .modal-body .login_form .input_div {
+	width: 90%;
+}
+#modal_2 .modal .modal-dialog .modal-content .modal-body .login_form .login_button {
+	width: 90%;
+}
+
+/* admit */
+#modal_3 .modal .modal-dialog .modal-content .modal-body .login_form {
+	padding: 10px 0;
+}
+#modal_3 .modal .modal-dialog .modal-content .modal-body .login_form .input_div {
+	width: 80%;
+}
+#modal_3 .modal .modal-dialog .modal-content .modal-body .login_form .login_button {
+	width: 80%;
+}
+/* apointment */
+#modal_4 .modal .modal-dialog .modal-content .modal-body .login_form .input_div {
+	width: 80%;
+}
+#modal_4 .modal .modal-dialog .modal-content .modal-body .login_form .login_button {
+	width: 80%;
+}
+
+/* application */
+.job .apply_item {
+	line-height: 0px;
+	padding: 40px 20px;
+}
+.job .apply_item .title h5 {
+	font-size: 20px;
+	line-height: 0px;
+}
+.job .apply_item h3 {
+	margin-top: 10px;
+}
+.job .apply_item h6 {
+	line-height: 0px;
+    padding: 10px 0;
+}
+.p_bottom{
+    padding-bottom: 30px;
+}
+/* cerculer */
+.cerculer .cerculer_main h4 {
+	font-size: 16px;
+}
+.cerculer .cerculer_main h5 {
+	font-size: 18px;
+}
+.cerculer .cerculer_main .cercule_req2 p {
+	font-size: 14px;
+}
+.cerculer .cerculer_main .cercule_req p {
+	font-size: 14px;
+}
+.cerculer {
+	padding: 10px 0;
+}
+/* Apply form */
+.apply_form .apply_main_form .form_body .input_title {
+	justify-content: flex-start;
+	
+}
+.apply_form .apply_main_form .form_body .input_title h5{
+	padding-left: 10px;
+}
+
+
+}
+@media (min-width: 480px) and (max-width: 575.98px){  
+    /* home  */
+    .home .home_right h3 {
+        font-size: 26px;
+    }
+    .job{
+        padding: 10px 0;
+    }
+    .home .home_right .apply_sec {
+        width: 90%;
+        margin: 0 auto;
+    }
+    .home {
+        padding: 50px 0;
+    }
+    .home .home_right .apply_sec {
+        padding: 20px 5px;
+        margin-top: 10px;
+    }
+/* offcan */
+.btn-close:focus {
+	box-shadow: none;
+}
+  /* Crad */
+  .cards {
+	padding: 50px 0;
+}
+.cards .card_item {
+	margin-top: 20px;
+}
+.cards .card_item h3 {
+	font-size: 24px;
+}
+.cards .card_item p {
+	font-size: 13px;
+	padding: 15px 0;
+}
+.cards .card_item {
+	padding: 40px 40px;
+}
+
+/* job */
+.job_application {
+	padding: 20px 0;
+}
+
+
+/* footer */
+.footer .footer_one h5 {
+	font-size: 13px;
+	color: #ffff;
+	padding-top: 5px;
+	font-weight: 400;
+}
+.footer {
+	padding: 30px 0;
+}
+/* login */
+#modal_2 .modal .modal-dialog .modal-content .modal-body .login_form {
+	padding: 0px 0;
+}
+
+#modal_2 .modal .modal-dialog .modal-content .modal-body .login_form .input_div {
+	width: 90%;
+}
+#modal_2 .modal .modal-dialog .modal-content .modal-body .login_form .login_button {
+	width: 90%;
+}
+
+/* admit */
+#modal_3 .modal .modal-dialog .modal-content .modal-body .login_form {
+	padding: 10px 0;
+}
+#modal_3 .modal .modal-dialog .modal-content .modal-body .login_form .input_div {
+	width: 80%;
+}
+#modal_3 .modal .modal-dialog .modal-content .modal-body .login_form .login_button {
+	width: 80%;
+}
+/* apointment */
+#modal_4 .modal .modal-dialog .modal-content .modal-body .login_form .input_div {
+	width: 80%;
+}
+#modal_4 .modal .modal-dialog .modal-content .modal-body .login_form .login_button {
+	width: 80%;
+}
+
+/* application */
+.job .apply_item {
+	line-height: 0px;
+	padding: 40px 20px;
+}
+.job .apply_item .title h5 {
+	font-size: 20px;
+	line-height: 0px;
+}
+.job .apply_item h3 {
+	margin-top: 10px;
+}
+.job .apply_item h6 {
+	line-height: 0px;
+    padding: 10px 0;
+}
+.p_bottom{
+    padding-bottom: 30px;
+}
+/* cerculer */
+.cerculer .cerculer_main h4 {
+	font-size: 16px;
+}
+.cerculer .cerculer_main h5 {
+	font-size: 18px;
+}
+.cerculer .cerculer_main .cercule_req2 p {
+	font-size: 14px;
+}
+.cerculer .cerculer_main .cercule_req p {
+	font-size: 14px;
+}
+.cerculer {
+	padding: 10px 0;
+}
+/* Apply form */
+.apply_form .apply_main_form .form_body .input_title {
+	justify-content: flex-start;
+	
+}
+.apply_form .apply_main_form .form_body .input_title h5{
+	padding-left: 10px;
+}
+
+
+}
+@media (min-width: 576px) and (max-width: 767.98px){  
+    /* home  */
+    .home .home_right h3 {
+        font-size: 26px;
+    }
+    .job{
+        padding: 10px 0;
+    }
+    .home .home_right .apply_sec {
+        width: 90%;
+        margin: 0 auto;
+    }
+    .home {
+        padding: 50px 0;
+    }
+    .home .home_right .apply_sec {
+        padding: 20px 5px;
+        margin-top: 10px;
+    }
+/* offcan */
+.btn-close:focus {
+	box-shadow: none;
+}
+  /* Crad */
+  .cards {
+	padding: 50px 0;
+}
+.cards .card_item {
+	margin-top: 20px;
+}
+.cards .card_item h3 {
+	font-size: 24px;
+}
+.cards .card_item p {
+	font-size: 13px;
+	padding: 15px 0;
+}
+.cards .card_item {
+	padding: 40px 5px;
+}
+
+/* job */
+.job_application {
+	padding: 20px 0;
+}
+
+
+/* footer */
+.footer .footer_one h5 {
+	font-size: 13px;
+	color: #ffff;
+	padding-top: 5px;
+	font-weight: 400;
+}
+.footer {
+	padding: 30px 0;
+}
+/* login */
+#modal_2 .modal .modal-dialog .modal-content .modal-body .login_form {
+	padding: 0px 0;
+}
+
+#modal_2 .modal .modal-dialog .modal-content .modal-body .login_form .input_div {
+	width: 90%;
+}
+#modal_2 .modal .modal-dialog .modal-content .modal-body .login_form .login_button {
+	width: 90%;
+}
+
+/* admit */
+#modal_3 .modal .modal-dialog .modal-content .modal-body .login_form {
+	padding: 10px 0;
+}
+#modal_3 .modal .modal-dialog .modal-content .modal-body .login_form .input_div {
+	width: 80%;
+}
+#modal_3 .modal .modal-dialog .modal-content .modal-body .login_form .login_button {
+	width: 80%;
+}
+/* apointment */
+#modal_4 .modal .modal-dialog .modal-content .modal-body .login_form .input_div {
+	width: 80%;
+}
+#modal_4 .modal .modal-dialog .modal-content .modal-body .login_form .login_button {
+	width: 80%;
+}
+
+/* application */
+.job .apply_item {
+	line-height: 0px;
+	padding: 40px 20px;
+}
+.job .apply_item .title h5 {
+	font-size: 20px;
+	line-height: 0px;
+}
+.job .apply_item h3 {
+	margin-top: 10px;
+}
+.job .apply_item h6 {
+	line-height: 0px;
+    padding: 10px 0;
+}
+.p_bottom{
+    padding-bottom: 30px;
+}
+/* cerculer */
+.cerculer .cerculer_main h4 {
+	font-size: 16px;
+}
+.cerculer .cerculer_main h5 {
+	font-size: 18px;
+}
+.cerculer .cerculer_main .cercule_req2 p {
+	font-size: 14px;
+}
+.cerculer .cerculer_main .cercule_req p {
+	font-size: 14px;
+}
+.cerculer {
+	padding: 10px 0;
+}
+/* Apply form */
+.apply_form .apply_main_form .form_body .input_title {
+	justify-content: flex-start;
+	
+}
+.apply_form .apply_main_form .form_body .input_title h5{
+	padding-left: 10px;
+}
+
+
+}
